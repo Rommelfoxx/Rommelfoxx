@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello I'm Vanderlan Alves ! 👋
+![tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280](https://user-images.githubusercontent.com/62702351/177392762-8b3fe655-3388-4ea2-87c4-5efa449f9766.gif)
+
+![Vanderlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rommelfoxx&show_icons=true&theme=radical)
+
 
 <!--
 **Rommelfoxx/Rommelfoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
