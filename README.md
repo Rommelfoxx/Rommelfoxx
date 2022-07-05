@@ -9,7 +9,7 @@
 
 ![Vanderlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rommelfoxx&show_icons=true&theme=radical)
 
-
+![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 <!--
 **Rommelfoxx/Rommelfoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
