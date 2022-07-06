@@ -5,11 +5,10 @@
 
 ![tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280](https://user-images.githubusercontent.com/62702351/177392762-8b3fe655-3388-4ea2-87c4-5efa449f9766.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rommelfoxx&layout=compact)](https://github.com/Rommelfoxx/github-readme-stats)
 
 ![Vanderlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rommelfoxx&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rommelfoxx&langs_count=8)](https://github.com/Rommelfoxx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rommelfoxx&hide=javascript,html)](https://github.com/Rommelfoxx/github-readme-stats)
 
 <h2 align="center"> 🚀Some Tool and Tech I use: </h2>
 
