@@ -9,6 +9,8 @@
 
 ![Vanderlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rommelfoxx&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rommelfoxx&langs_count=8)](https://github.com/Rommelfoxx/github-readme-stats)
+
 <h2 align="center"> 🚀Some Tool and Tech I use: </h2>
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
