@@ -2,7 +2,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rommelfoxx)](https://github.com/Rommelfoxx)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanderlan-alves-mba-ctal-tm-asf-0a76b422/)](https://www.linkedin.com/in/vanderlan-alves-mba-ctal-tm-asf-0a76b422/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCqqXt46XaJthQFAnZya-2BQ)](https://www.youtube.com/channel/UCqqXt46XaJthQFAnZya-2BQ)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://vanderlan-alves-filho.medium.com/)](https://vanderlan-alves-filho.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://vanderlan-alves-filho.medium.com/)](https://vanderlan-alves-filho.medium.com/)
 
 
 ![tumblr_cca4f06484b447c0687f0325af5b38c9_7c751558_1280](https://user-images.githubusercontent.com/62702351/177392762-8b3fe655-3388-4ea2-87c4-5efa449f9766.gif)
