@@ -87,8 +87,12 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/vanderlan-alves/) to 
 
 ## GitHub activity
 
-![Vanderlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rommelfoxx&show_icons=true&theme=radical)
+![Vanderlan's public GitHub stats](https://github-readme-stats.vercel.app/api?username=Rommelfoxx&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true&cache_seconds=21600&refresh=20261009)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rommelfoxx&hide=javascript,html)](https://github.com/Rommelfoxx/github-readme-stats)
+Public GitHub activity. The commit total covers my full history indexed by GitHub.
+
+[![Languages in my public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=Rommelfoxx&theme=radical&langs_count=10&layout=compact&cache_seconds=21600&refresh=20261009)](https://github.com/Rommelfoxx?tab=repositories)
+
+Language percentages measure code bytes in public repositories I own, excluding forks. They describe the repository contents, rather than years of professional experience.
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
