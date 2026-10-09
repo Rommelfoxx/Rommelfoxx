@@ -87,11 +87,11 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/vanderlan-alves/) to 
 
 ## GitHub activity
 
-![Vanderlan's public GitHub stats](https://github-readme-stats.vercel.app/api?username=Rommelfoxx&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true&cache_seconds=21600&refresh=20261009)
+![Vanderlan's public GitHub stats](https://github-readme-stats.vercel.app/api?username=Rommelfoxx&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true&cache_seconds=21600&refresh=20261009-reports-removed)
 
 Public GitHub activity. The commit total covers my full history indexed by GitHub.
 
-[![Languages in my public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=Rommelfoxx&theme=radical&langs_count=10&layout=compact&cache_seconds=21600&refresh=20261009)](https://github.com/Rommelfoxx?tab=repositories)
+[![Languages in my public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=Rommelfoxx&theme=radical&langs_count=10&layout=compact&cache_seconds=21600&refresh=20261009-reports-removed)](https://github.com/Rommelfoxx?tab=repositories)
 
 Language percentages measure code bytes in public repositories I own, excluding forks. They describe the repository contents, rather than years of professional experience.
 
